@@ -9,5 +9,11 @@ public class TrainerMain {
 
             System.out.println(aladar.name+ " " +aladar.yaerOfBirth);
 
+            Trainer bela = new Trainer();
+            bela.name = "Bella Bela";
+            bela.yaerOfBirth = 1993;
+
+            System.out.println(bela.name+ " " +bela.yaerOfBirth);
+            System.out.println(aladar.name);
     }
 }
