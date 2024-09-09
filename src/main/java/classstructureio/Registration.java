@@ -12,7 +12,7 @@ public class Registration {
         System.out.println("Mail: ");
         String mail = scanner.nextLine();
 
-        System.out.println("Regisztrált adatok: \nNeve:" + name + "\nMail címe:" + mail);
+        System.out.println("Regisztrált adatok: \nNeve: " + name + "\nMail címe: " + mail);
 
     }
 }
