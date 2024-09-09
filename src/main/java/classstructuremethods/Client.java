@@ -14,17 +14,17 @@ public class Client {
         this.name = name;
     }
 
-    public int getYear(){
+    /*public int getYear(){
         return year;
-    }
+    }*/
 
     public void setYear(int year){
         this.year = year;
     }
 
-    public String getAddress(){
+    /*public String getAddress(){
         return address;
-    }
+    }*/
 
     public void setAddress(String address){
         this.address = address;
