@@ -1,4 +1,4 @@
-package classstructureio;
+package classstructureattributes;
 
 public class TrainerMain {
     public static void main(String[] args) {
